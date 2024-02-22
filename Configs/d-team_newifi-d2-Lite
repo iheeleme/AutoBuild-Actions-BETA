@@ -125,6 +125,7 @@ CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_ShadowsocksR_Libev_Client=y
 
 # 主题包
 # CONFIG_PACKAGE_luci-theme-argon is not set
+CONFIG_PACKAGE_luci-theme-argon-mod=y
 
 # Other Appliciations
 CONFIG_PACKAGE_bash=y
@@ -139,3 +140,4 @@ CONFIG_PACKAGE_wpad-openssl=y
 CONFIG_PACKAGE_xz=y
 CONFIG_PACKAGE_xz-utils=y
 CONFIG_PACKAGE_xl2tpd=y
+CONFIG_PACKAGE_keepalived=y
